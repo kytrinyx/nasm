@@ -1,0 +1,18 @@
+{
+  "slug": "assembly",
+  "language": "Assembly",
+  "repository": "https://github.com/exercism/xassembly",
+  "active": false,
+  "problems": [
+
+  ],
+  "deprecated": [
+
+  ],
+  "ignored": [
+
+  ],
+  "foregone": [
+
+  ]
+}
