@@ -2,6 +2,7 @@
   "slug": "assembly",
   "language": "Assembly",
   "repository": "https://github.com/exercism/xassembly",
+  "checklist_issue": 4,
   "active": false,
   "problems": [
 
