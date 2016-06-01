@@ -1,6 +1,6 @@
-# xAssembly
+# xNASM
 
-Exercism Exercises for Assembly
+Exercism Exercises for the Netwide Assembler.
 
 ## Contributing Guide
 
@@ -10,4 +10,4 @@ Please see the [contributing guide](https://github.com/exercism/x-api/blob/maste
 
 The MIT License (MIT)
 
-Copyright (c) 2014 Katrina Owen, _@kytrinyx.com
+Copyright (c) 2016 Katrina Owen, _@kytrinyx.com
