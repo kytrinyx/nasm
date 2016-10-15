@@ -4,9 +4,6 @@
   "repository": "https://github.com/exercism/xnasm",
   "checklist_issue": 4,
   "active": false,
-  "problems": [
-
-  ],
   "deprecated": [
 
   ],
@@ -15,6 +12,9 @@
     "img"
   ],
   "foregone": [
+
+  ],
+  "exercises": [
 
   ]
 }
