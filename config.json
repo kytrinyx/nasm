@@ -1,7 +1,7 @@
 {
   "slug": "nasm",
   "language": "The Netwide Assembler",
-  "repository": "https://github.com/exercism/xnasm",
+  "repository": "https://github.com/exercism/nasm",
   "checklist_issue": 4,
   "active": false,
   "deprecated": [
